@@ -1,6 +1,6 @@
 {
   "name": "traktor-connect",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Library to receive track metadata from Traktor Pro via OGG Vorbis broadcast",
   "license": "MIT",
   "private": false,
