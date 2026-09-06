@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.1.3
+
+- ci: Traktor connector releases reach npm again instead of failing on every push
+
+
 ## v1.1.2
 
 - chore: drop transient peer:true flags from lock file
